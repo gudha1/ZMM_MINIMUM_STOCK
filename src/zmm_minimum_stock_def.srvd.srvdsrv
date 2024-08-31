@@ -1,0 +1,4 @@
+@EndUserText.label: 'SERVICE DEFINITION'
+define service ZMM_MINIMUM_STOCK_DEF {
+  expose ZMM_MINIMUM_STOCK_FINAL;
+}
